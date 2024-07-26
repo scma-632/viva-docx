@@ -1,4 +1,4 @@
-![](Aspose.Words.9cd1b743-bdc1-48b2-800b-7bf2ddf648df.001.png)STATISTICL ANALYSIS & MODELING SCMA 632
+**STATISTICL ANALYSIS & MODELING SCMA 632**
 
 **Sample Q & A for Viva**
 
@@ -308,7 +308,7 @@ print(keyword.kwlist)`
 
 
 
-Topic 8: Applications Development
+**Topic 8: Applications Development**
 
 1\. Q: What is the purpose of a virtual environment in Python?
 
